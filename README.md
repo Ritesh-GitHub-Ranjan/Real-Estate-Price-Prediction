@@ -134,5 +134,3 @@ The deep learning model demonstrates strong performance, as evidenced by the fol
 The deep learning model demonstrates strong predictive performance in estimating real estate prices, providing valuable insights for decision-making in the real estate market. Further improvements could be made by incorporating additional features and fine-tuning the model architecture.
 
 ---
-
-This project is a practical demonstration of applying deep learning techniques to predict real estate prices, showcasing the potential of machine learning in real-world applications.
